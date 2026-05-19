@@ -4,7 +4,7 @@ I'm a final-year Computer Science student at Queen Mary University of London, sp
 
 ### What I'm working on
 
-- 🔐 **AI Assisted Attack Path Prioritisation for Airport IT Assets** — my final-year project, building a tool that aggregates OSINT and active scanning outputs into an AI-assisted ranking system, simulating red-team operations to assess disruption potential
+- 🔐 **[AI-Assisted Attack Path Prioritisation for Airport IT Assets](https://github.com/meldy04/ECS635U-FYP)** — my final-year project: a multi-objective optimisation system that models airport IT vulnerabilities as attack graphs and uses a genetic algorithm (NSGA-II) to prioritise attack paths across exploitability, impact, time-to-compromise, and stealth. Evaluated against manual and CVSS-based baselines in a containerised, standards-grounded simulated environment.
 - 🛠️ Sharpening offensive security skills via TryHackMe (Cybersecurity 101, Web Fundamentals)
 
 ### Some of my projects
